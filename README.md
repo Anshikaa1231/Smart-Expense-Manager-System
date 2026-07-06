@@ -69,6 +69,4 @@ Add screenshots of the following pages:
 
 **Anshika Tripathi**
 
-Final Year B.Tech Student | Web Development Enthusiast
-
-If you find this project useful, feel free to ⭐ the repository.
+B.Tech Graduate | Aspiring Software Engineer
