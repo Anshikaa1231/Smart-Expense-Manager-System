@@ -33,16 +33,6 @@ The system provides an intuitive interface for managing daily financial activiti
 
 ---
 
-## ⚙️ Installation
-
-1. Clone this repository.
-2. Move the project folder to the **htdocs** directory of XAMPP.
-3. Import the provided SQL database using phpMyAdmin.
-4. Start **Apache** and **MySQL** from the XAMPP Control Panel.
-5. Open the project in your browser.
-
----
-
 ## 📸 Screenshots
 
 Add screenshots of the following pages:
